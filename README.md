@@ -1,2 +1,2 @@
 # TACO
-A genral lake temperature-deth curve model
+A genral lake temperature-depth curve model
